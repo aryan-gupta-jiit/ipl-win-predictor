@@ -28,9 +28,6 @@ dist/
 ENV/
 env/
 
-# Ignore compiled model files (optional — if you're rebuilding often)
-*.pkl
-
 # Jupyter Notebook cache (if used)
 .ipynb_checkpoints/
 
